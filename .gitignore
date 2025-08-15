@@ -1,0 +1,19 @@
+# Raw / large datasets
+data/raw/
+*.csv
+*.tsv
+*.xlsx
+
+# Postgres dump & restore files
+*.sql
+*.dump
+*.backup
+
+# Local / temporary files
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+
+# Excel temp files
+~$*.xls*
